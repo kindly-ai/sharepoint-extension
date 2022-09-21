@@ -1,5 +1,5 @@
 {
-  "name": "kindly-chat-extension",
+  "name": "kindly-chat-extension-io",
   "version": "0.0.1",
   "private": true,
   "main": "lib/index.js",
